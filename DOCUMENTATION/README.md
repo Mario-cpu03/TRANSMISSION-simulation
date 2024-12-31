@@ -10,7 +10,7 @@ The `DOCUMENTATION/` directory contains the **TRANSMISSION_git.pdf**, which serv
 ### 1. Formalized Test Cases  
 The document outlines the specific test cases simulated in MATLAB to study the impact of fading on systems employing 16-QAM and 64-QAM.
 
-### 2. Analysis of 3GPP Release 5 Design Choices  
+### 2/3. Analysis and Cnclusions about 3GPP Release 5 Design Choices  
 Using simulation results, the document evaluates the performance trade-offs and justifications for adopting 16-QAM and 64-QAM in the context of fading channels.
 
 ---
