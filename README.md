@@ -6,7 +6,7 @@ The primary objective of this project is to simulate and analyze the effects of 
 ---
 
 ## Motivation  
-This project is motivated by an academic interest in advanced modulation techniques and their practical implications in telecommunications. It seeks to study the rationale behind the design choices made in 3GPP Release 5 through simulation results and structured analysis.  
+This project is motivated by an academic interest in modulation techniques and their practical implications in telecommunications. It seeks to study the rationale behind the design choices made in 3GPP Release 5 through simulation results and structured analysis.  
 
 ---
 
