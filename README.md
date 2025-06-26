@@ -27,3 +27,11 @@ This repository provides:
 - Documentation analyzing the design choices of 3GPP Release 5 through simulation results.  
 
 For more information, refer to **TRANSMISSION_git.pdf** in the `DOCUMENTATION/` directory or explore the source code in the `CODE/` directory.
+
+---
+
+## Contacts
+For info or suggest please contact me at:
+- marioambrosone03@gmail.com
+- m.ambrosone12@studenti.unisa.it
+- @_mario.ambrosone on Instagram
